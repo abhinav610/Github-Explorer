@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.user-image {
+  width: 100px;
+  height: 100px;
+}
+
+a {
+  color: inherit !important;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
